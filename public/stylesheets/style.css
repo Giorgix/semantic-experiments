@@ -1,0 +1,47 @@
+
+html, body {
+    height: 100%;
+}
+
+figure {
+    margin: 0;
+}
+
+.pusher {
+    height: 100%;
+}
+
+.front {
+    position: relative;
+    height: 100%;
+    
+}
+.front-img {
+    background: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    
+}
+.brand {
+    background-color: red;  
+    /*position: fixed;*/
+    
+    top: 0;
+    right: 0;
+    left:0;
+     
+   
+    
+        
+}
+
+.content {
+    background: blue;
+    height: 500px;
+ 
+    
+}
+
